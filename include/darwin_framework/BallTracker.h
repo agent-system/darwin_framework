@@ -8,10 +8,10 @@
 #ifndef _BALL_TRACKER_H_
 #define _BALL_TRACKER_H_
 
-#include <string.h>
+#include <string>
 
-#include "Point.h"
-#include "minIni.h"
+#include <darwin_framework/Point.h>
+#include <darwin_framework/minIni/minIni.h>
 
 namespace Robot
 {

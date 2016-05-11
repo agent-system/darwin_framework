@@ -5,8 +5,8 @@
  *
  */
 
-#include <math.h>
-#include "Point.h"
+#include <cmath>
+#include <darwin_framework/Point.h>
 
 using namespace Robot;
 

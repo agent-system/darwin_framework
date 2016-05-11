@@ -8,8 +8,8 @@
 #ifndef _KINEMATICS_H_
 #define _KINEMATICS_H_
 
-#include "Matrix.h"
-#include "JointData.h"
+#include <darwin_framework/Matrix.h>
+#include <darwin_framework/JointData.h>
 
 namespace Robot
 {

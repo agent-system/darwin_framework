@@ -5,11 +5,11 @@
  *
  */
 
-#include <stdio.h>
-#include "MX28.h"
-#include "Kinematics.h"
-#include "MotionStatus.h"
-#include "Head.h"
+#include <cstdio>
+#include <darwin_framework/MX28.h>
+#include <darwin_framework/Kinematics.h>
+#include <darwin_framework/MotionStatus.h>
+#include <darwin_framework/Head.h>
 
 using namespace Robot;
 

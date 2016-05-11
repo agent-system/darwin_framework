@@ -8,11 +8,11 @@
 #ifndef _HEAD_H_
 #define _HEAD_H_
 
-#include <string.h>
+#include <string>
 
-#include "minIni.h"
-#include "MotionModule.h"
-#include "Point.h"
+#include <darwin_framework/minIni/minIni.h>
+#include <darwin_framework/MotionModule.h>
+#include <darwin_framework/Point.h>
 
 #define HEAD_SECTION    "Head Pan/Tilt"
 #define INVALID_VALUE   -1024.0

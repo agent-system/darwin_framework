@@ -8,7 +8,7 @@
 #ifndef _MOTION_STATUS_H_
 #define _MOTION_STATUS_H_
 
-#include "JointData.h"
+#include <darwin_framework/JointData.h>
 
 
 namespace Robot

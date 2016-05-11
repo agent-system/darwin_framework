@@ -5,13 +5,13 @@
  *
  */
 
-#include <math.h>
-#include "Head.h"
-#include "Camera.h"
-#include "ImgProcess.h"
-#include "BallTracker.h"
-#include "Walking.h"
-#include "MotionStatus.h"
+#include <cmath>
+#include <darwin_framework/Head.h>
+#include <darwin_framework/Camera.h>
+#include <darwin_framework/ImgProcess.h>
+#include <darwin_framework/BallTracker.h>
+#include <darwin_framework/Walking.h>
+#include <darwin_framework/MotionStatus.h>
 
 using namespace Robot;
 

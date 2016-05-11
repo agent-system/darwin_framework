@@ -4,14 +4,14 @@
  *   Author: ROBOTIS
  *
  */
-#include <stdio.h>
-#include <math.h>
-#include "Vector.h"
-#include "Matrix.h"
-#include "MX28.h"
-#include "MotionStatus.h"
-#include "Kinematics.h"
-#include "Walking.h"
+#include <cstdio>
+#include <cmath>
+#include <darwin_framework/Vector.h>
+#include <darwin_framework/Matrix.h>
+#include <darwin_framework/MX28.h>
+#include <darwin_framework/MotionStatus.h>
+#include <darwin_framework/Kinematics.h>
+#include <darwin_framework/Walking.h>
 
 using namespace Robot;
 

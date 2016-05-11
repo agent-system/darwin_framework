@@ -5,9 +5,9 @@
  *
  */
 
-#include <string.h>
+#include <cstring>
 
-#include "ImgProcess.h"
+#include <darwin_framework/ImgProcess.h>
 
 using namespace Robot;
 

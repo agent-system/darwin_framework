@@ -12,10 +12,10 @@
 #include <fstream>
 #include <iostream>
 #include <unistd.h>
-#include "MotionStatus.h"
-#include "MotionModule.h"
-#include "CM730.h"
-#include "minIni.h"
+#include <darwin_framework/MotionStatus.h>
+#include <darwin_framework/MotionModule.h>
+#include <darwin_framework/CM730.h>
+#include <darwin_framework/minIni/minIni.h>
 
 #define OFFSET_SECTION "Offset"
 #define INVALID_VALUE   -1024.0

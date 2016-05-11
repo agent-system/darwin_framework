@@ -5,8 +5,8 @@
  *
  */
 
-#include <math.h>
-#include "Kinematics.h"
+#include <cmath>
+#include <darwin_framework/Kinematics.h>
 
 
 using namespace Robot;

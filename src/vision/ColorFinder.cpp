@@ -5,10 +5,10 @@
  *      Author: zerom
  */
 
-#include <stdlib.h>
+#include <cstdlib>
 
-#include "ColorFinder.h"
-#include "ImgProcess.h"
+#include <darwin_framework/ColorFinder.h>
+#include <darwin_framework/ImgProcess.h>
 
 using namespace Robot;
 

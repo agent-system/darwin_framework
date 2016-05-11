@@ -10,9 +10,9 @@
 
 #include <string>
 
-#include "Point.h"
-#include "Image.h"
-#include "minIni.h"
+#include <darwin_framework/Point.h>
+#include <darwin_framework/Image.h>
+#include <darwin_framework/minIni/minIni.h>
 
 #define COLOR_SECTION   "Find Color"
 #define INVALID_VALUE   -1024.0

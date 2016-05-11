@@ -8,9 +8,9 @@
 #ifndef _ACTION_MODULE_H_
 #define _ACTION_MODULE_H_
 
-#include <stdio.h>
-#include "MotionModule.h"
-#include "JointData.h"
+#include <cstdio>
+#include <darwin_framework/MotionModule.h>
+#include <darwin_framework/JointData.h>
 
 
 
