@@ -5,9 +5,9 @@
  *
  */
 
-#include "MX28.h"
-#include "JointData.h"
-#include "MotionManager.h"
+#include <darwin_framework/MX28.h>
+#include <darwin_framework/JointData.h>
+#include <darwin_framework/MotionManager.h>
 
 using namespace Robot;
 

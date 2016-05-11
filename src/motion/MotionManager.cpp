@@ -5,11 +5,11 @@
  *
  */
 
-#include <stdio.h>
-#include <math.h>
-#include "FSR.h"
-#include "MX28.h"
-#include "MotionManager.h"
+#include <cstdio>
+#include <cmath>
+#include <darwin_framework/FSR.h>
+#include <darwin_framework/MX28.h>
+#include <darwin_framework/MotionManager.h>
 
 using namespace Robot;
 

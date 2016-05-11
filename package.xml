@@ -4,13 +4,11 @@
   <version>0.0.0</version>
   <description>The darwin_framework package</description>
 
-  <maintainer email="robotis@todo.todo">robotis</maintainer>
-  <license>TODO</license>
-  <author email="jane.doe@example.com">Jane Doe</author>
+  <maintainer email="furushchev@jsk.imi.i.u-tokyo.ac.jp">Yuki Furuta</maintainer>
+  <license>MIT</license>
+  <author email="furushchev@jsk.imi.i.u-tokyo.ac.jp">Yuki Furuta</author>
 
   <buildtool_depend>catkin</buildtool_depend>
-  <build_depend>roscpp</build_depend>
-
   <export>
   </export>
 </package>

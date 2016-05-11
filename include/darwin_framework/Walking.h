@@ -8,10 +8,10 @@
 #ifndef _WALKING_ENGINE_H_
 #define _WALKING_ENGINE_H_
 
-#include <string.h>
+#include <string>
 
-#include "minIni/minIni.h"
-#include "MotionModule.h"
+#include <darwin_framework/minIni/minIni.h>
+#include <darwin_framework/MotionModule.h>
 
 #define WALKING_SECTION "Walking Config"
 #define INVALID_VALUE   -1024.0

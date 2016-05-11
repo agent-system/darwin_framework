@@ -5,9 +5,9 @@
  *
  */
 
-#include <stdlib.h>
-#include <string.h>
-#include "Image.h"
+#include <cstdlib>
+#include <cstring>
+#include <darwin_framework/Image.h>
 
 using namespace Robot;
 
@@ -30,7 +30,7 @@ Image::~Image()
 
 Image& Image::operator = (Image &img)
 {
-	memcpy(m_ImageData, img.m_ImageData, m_ImageSize);
+  std::memcpy(m_ImageData, img.m_ImageData, m_ImageSize);
 	return *this;
 }
 

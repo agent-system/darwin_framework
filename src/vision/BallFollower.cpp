@@ -5,14 +5,14 @@
  *
  */
 
-#include <stdio.h>
-#include "ImgProcess.h"
-#include "MX28.h"
-#include "Head.h"
-#include "Action.h"
-#include "Walking.h"
-#include "BallFollower.h"
-#include "MotionStatus.h"
+#include <cstdio>
+#include <darwin_framework/ImgProcess.h>
+#include <darwin_framework/MX28.h>
+#include <darwin_framework/Head.h>
+#include <darwin_framework/Action.h>
+#include <darwin_framework/Walking.h>
+#include <darwin_framework/BallFollower.h>
+#include <darwin_framework/MotionStatus.h>
 
 
 using namespace Robot;

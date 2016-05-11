@@ -8,7 +8,7 @@
 #ifndef _CM_730_H_
 #define _CM_730_H_
 
-#include "MX28.h"
+#include <darwin_framework/MX28.h>
 
 #define MAXNUM_TXPARAM      (256)
 #define MAXNUM_RXPARAM      (1024)

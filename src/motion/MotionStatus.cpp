@@ -5,7 +5,7 @@
  *
  */
 
-#include "MotionStatus.h"
+#include <darwin_framework/MotionStatus.h>
 
 using namespace Robot;
 

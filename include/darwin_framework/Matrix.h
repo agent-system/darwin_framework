@@ -8,8 +8,8 @@
 #ifndef _MATRIX_H_
 #define _MATRIX_H_
 
-#include "Vector.h"
-#include "Point.h"
+#include <darwin_framework/Vector.h>
+#include <darwin_framework/Point.h>
 
 
 namespace Robot

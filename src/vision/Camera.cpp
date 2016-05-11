@@ -6,7 +6,7 @@
  */
 
 
-#include "Camera.h"
+#include <darwin_framework/Camera.h>
 
 using namespace Robot;
 

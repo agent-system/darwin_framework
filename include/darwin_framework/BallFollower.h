@@ -8,8 +8,8 @@
 #ifndef _BALL_FOLLOWER_H_
 #define _BALL_FOLLOWER_H_
 
-#include "Point.h"
-#include "BallTracker.h"
+#include <darwin_framework/Point.h>
+#include <darwin_framework/BallTracker.h>
 
 
 namespace Robot

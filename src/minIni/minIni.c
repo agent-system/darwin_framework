@@ -30,7 +30,7 @@
 #endif
 
 #define MININI_IMPLEMENTATION
-#include "minIni.h"
+#include <darwin_framework/minIni/minIni.h>
 #if defined NDEBUG
   #define assert(e)
 #else

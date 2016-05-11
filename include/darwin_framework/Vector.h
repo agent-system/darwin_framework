@@ -8,7 +8,7 @@
 #ifndef _VECTOR_H_
 #define _VECTOR_H_
 
-#include "Point.h"
+#include <darwin_framework/Point.h>
 
 namespace Robot
 {	

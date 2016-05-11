@@ -5,8 +5,8 @@
  *
  */
 
-#include <math.h>
-#include "Vector.h"
+#include <cmath>
+#include <darwin_framework/Vector.h>
 
 using namespace Robot;
 

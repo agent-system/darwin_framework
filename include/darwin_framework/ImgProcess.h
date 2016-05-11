@@ -8,7 +8,7 @@
 #ifndef _IMAGE_PROCESS_H_
 #define _IMAGE_PROCESS_H_
 
-#include "Image.h"
+#include <darwin_framework/Image.h>
 
 namespace Robot
 {

@@ -5,8 +5,8 @@
  *
  */
 
-#include <math.h>
-#include "Matrix.h"
+#include <cmath>
+#include <darwin_framework/Matrix.h>
 
 using namespace Robot;
 

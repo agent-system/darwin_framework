@@ -5,9 +5,9 @@
  *
  */
 
-#include <string.h>
-#include "MotionStatus.h"
-#include "Action.h"
+#include <cstring>
+#include <darwin_framework/MotionStatus.h>
+#include <darwin_framework/Action.h>
 
 using namespace Robot;
 
