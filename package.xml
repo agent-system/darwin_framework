@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>darwin_framework</name>
+  <version>0.0.0</version>
+  <description>The darwin_framework package</description>
+
+  <maintainer email="robotis@todo.todo">robotis</maintainer>
+  <license>TODO</license>
+  <author email="jane.doe@example.com">Jane Doe</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+
+  <export>
+  </export>
+</package>
